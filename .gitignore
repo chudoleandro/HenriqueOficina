@@ -1,0 +1,7 @@
+﻿nexus_token.json
+venv/
+venv32/
+__pycache__/
+build/
+dist/
+*.spec
